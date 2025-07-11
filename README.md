@@ -1,6 +1,6 @@
 # exif-date-setter
 
-A litle Python tool to set EXIF metadata date on image files based on date found in the folder title.
+A little Python tool to set EXIF metadata date on image files based on date found in the folder title.
 
 Works typically well with this type of folder architecture : 
 
